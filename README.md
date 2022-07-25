@@ -32,7 +32,9 @@ antes de mais nada devemos entender que:
 #### GIT ADD
  O comando git add adiciona uma alteração no diretório ativo à área de staging. Ele diz ao Git que você quer incluir atualizações a um arquivo específico no próximo commit. No entanto, git add não tem efeito real e significativo no repositório — as alterações não são gravadas mesmo até você executar git commit .
  
- 
- 
+ lembrando que esses são comandos basicos para dar inicio ao seu primeiro commit, porem, é necessario que se tenha um conhecimento mais extenso para dominar o git/github
  
  segue o link com  comandos essenciais  para [uma boa navegação no terminal](https://www.uniaogeek.com.br/guia-de-comandos-cmd-terminal-do-windows/).
+ 
+ 
+ 
