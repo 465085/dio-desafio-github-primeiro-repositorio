@@ -6,7 +6,7 @@ repositorio criado para o desafio do projeto.
 [sintaxe basica markdown](https://www.markdownguide.org/)
 
 
-antes de mais nada devemos entender  que:
+antes de mais nada devemos entender que:
 
  GIT: é um versionador de codigos
  GITHUB: quem irá hospedar esses codigos na nuvem  
@@ -24,3 +24,13 @@ antes de mais nada devemos entender  que:
  MD:  para criar uma nova pasta.
  
  segue o link com  comandos essenciais  para [uma boa navegação no terminal](https://www.uniaogeek.com.br/guia-de-comandos-cmd-terminal-do-windows/).
+ 
+#
+
+DANDO O SEU PRIMEIRO COMMIT
+
+na area de trabalho, iremos criar uma pasta com o nome de sua preferencia.
+dentro dessa pasta, você irá clicar com o botão direto do mouse e iremos clicar em git bash here
+
+
+
