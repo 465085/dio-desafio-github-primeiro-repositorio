@@ -15,7 +15,7 @@ antes de mais nada devemos entender  que:
  Dir: para listar arquivos e pastas.
  Cd:  para entrar em uma pasta ex: suponhamos que voçê tenha uma pasta com o nome "workspace" logo: cd workspace + enter.
  RD:  para remover pastas.
- move: para mover pasta.
+ move: para mover uma pasta
  MD:  para criar uma nova pasta.
  
  
