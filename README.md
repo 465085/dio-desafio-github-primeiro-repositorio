@@ -32,5 +32,4 @@ DANDO O SEU PRIMEIRO COMMIT
 na area de trabalho, iremos criar uma pasta com o nome de sua preferencia.
 dentro dessa pasta, você irá clicar com o botão direto do mouse e iremos clicar em git bash here
 
-
-
+![teste com regua](https://user-images.githubusercontent.com/104809829/180677717-e69431e4-3f22-4061-9365-f77ba98876aa.png)
