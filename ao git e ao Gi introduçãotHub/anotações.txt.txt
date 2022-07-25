@@ -1,2 +1,7 @@
 link para donwload do Git: https://git-scm.com/downloads
-"" ENTENDENDO O GIT E SUA IMPORTANÇ
+"" ENTENDENDO O GIT E SUA IMPORTANÇI
+
+antes de mais nada devemos entender  que:
+
+ GIT: é um versionador de codigos
+ GITHUB: quem irá hospedar esses codigos na nuvem  
