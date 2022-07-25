@@ -9,6 +9,7 @@ repositorio criado para o desafio do projeto.
 antes de mais nada devemos entender que:
 
  GIT: é um versionador de codigos
+ 
  GITHUB: quem irá hospedar esses codigos na nuvem  
  
  SISTEMA DE SEGURANÇA:
