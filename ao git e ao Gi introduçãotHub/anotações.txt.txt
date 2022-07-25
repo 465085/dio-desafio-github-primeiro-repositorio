@@ -16,7 +16,9 @@ antes de mais nada devemos entender  que:
  Cd:  para entrar em uma pasta ex: suponhamos que voçê tenha uma pasta com o nome "workspace" logo: cd workspace + enter.
  RD:  para remover pastas.
  move: para mover uma pasta
- MD:  para criar uma nova pasta.
+ MD:  para criar uma nova pasta. 
+ 
+ segue o link com  comandos essenciais  para {uma boa naveegação no terminal}()
  
  
  
