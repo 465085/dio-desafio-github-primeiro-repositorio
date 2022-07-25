@@ -18,7 +18,7 @@ antes de mais nada devemos entender  que:
  move: para mover uma pasta
  MD:  para criar uma nova pasta. 
  
- segue o link com  comandos essenciais  para {uma boa naveegação no terminal}()
+ segue o link com  comandos essenciais  para [uma boa navegação no terminal](https://www.uniaogeek.com.br/guia-de-comandos-cmd-terminal-do-windows/)
  
  
  
